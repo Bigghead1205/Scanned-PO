@@ -90,6 +90,6 @@ else:
 
 ## 🧑‍💻 Tác giả
 
-- Project Owner: bạn
+- Project Owner: Loki Long
 - Assistant: ChatGPT (OpenAI)
 - Version: `v1 - xử lý & ghi log PO tự động`
